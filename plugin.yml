@@ -1,0 +1,7 @@
+name: KitUI
+main: tim03we\kitui\KitUI
+api: 3.0.0
+version: 1.0
+author: tim03we
+description: A PocketMine-MP Plugin
+depend: ["FormAPI"]

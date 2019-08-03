@@ -1,0 +1,10 @@
+---
+messages:
+  forms:
+    title: "KitUI"
+    content: "Choose your kit."
+  format:
+    time: "{hours} hour(s), {minutes} minute(s) and {seconds} second(s)"
+  success: "You have successfully equipped yourself with the kit {kit}."
+  not-addable: "You cannot select this kit because your inventory is full."
+...
